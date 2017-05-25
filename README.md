@@ -41,9 +41,9 @@ They can be [abrasive](https://twitter.com/rob_pike/status/617548868641656832); 
 They do not add something if they do not know how to do it well, and they are serious about the Go 1 compatibility promise.
 These explain why Go lacked or lacks some features.
 
-The [Gopher](https://blog.golang.org/gopher) is the official Go mascot and community members are called Gophers.
-
 ### Community
+
+The [Gopher](https://blog.golang.org/gopher) is the official Go mascot and community members are called Gophers.
 
 The Go community is large and thriving.
 A new language means new opportunities for new libraries and tools.
