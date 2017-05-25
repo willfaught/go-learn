@@ -188,6 +188,7 @@ Rob Pike:
 - [https://gophers.slack.com](https://gophers.slack.com) (sign up on [https://invite.slack.golangbridge.org](https://invite.slack.golangbridge.org))
 - [https://gophervids.appspot.com](https://gophervids.appspot.com)
 - [https://goreportcard.com](https://goreportcard.com)
+- [https://changelog.com/gotime](https://changelog.com/gotime)
 - [https://groups.google.com/d/forum/golang-announce](https://groups.google.com/d/forum/golang-announce)
 - [https://groups.google.com/d/forum/golang-dev](https://groups.google.com/d/forum/golang-dev)
 - [https://groups.google.com/d/forum/golang-nuts](https://groups.google.com/d/forum/golang-nuts)
