@@ -319,11 +319,6 @@ Third party:
 - [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm)
 - [https://github.com/jmoiron/sqlx](https://github.com/jmoiron/sqlx)
 
-First party:
-
-- [https://github.com/bigcommerce-labs/framework-go](https://github.com/bigcommerce-labs/framework-go)
-- [https://github.com/bigcommerce-labs/skeleton-go](https://github.com/bigcommerce-labs/skeleton-go)
-
 ## Reference
 
 - [https://golang.org/ref/mem](https://golang.org/ref/mem)
