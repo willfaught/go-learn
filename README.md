@@ -226,10 +226,13 @@ Web:
 Commands:
 
 - `go help build`
+- `go help buildmode`
+- `go help c`
 - `go help clean`
 - `go help doc`
 - `go help env`
 - `go help environment`
+- `go help filetype`
 - `go help fmt`
 - `go help generate`
 - `go help get`
